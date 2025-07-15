@@ -57,8 +57,6 @@ python excel_merger.py
 - openpyxl
 - tkinter (included with Python)
 
-```
-
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
