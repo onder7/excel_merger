@@ -70,7 +70,6 @@ This project is open source and available under the MIT License.
 ---
 
 # Excel Veri Birleştirme ve Doldurma Aracı
-<img width="1366" height="735" alt="image" src="https://github.com/user-attachments/assets/6755be06-201e-4201-8da7-5ecb2bd7c82e" />
 
 Ortak sütun temelinde iki Excel dosyasını akıllıca birleştiren ve eksik verileri dolduran güçlü bir Python GUI uygulaması.
 
